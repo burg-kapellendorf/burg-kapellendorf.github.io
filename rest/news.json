@@ -1,0 +1,32 @@
+{
+  "news": [
+    {
+      "id": 10,
+      "from": "2019-04-06",
+      "to": "2019-04-07",
+      "title": "Töpfermarkt",
+      "description": "10.00 -18.00 Uhr - Töpfermarkt im historischen Burginnenhof"
+    },
+    {
+      "id": 20,
+      "from": "2019-05-17",
+      "to": null,
+      "title": "Lange Museumsnacht",
+      "description": "18.00 - 23.00 Uhr - Busshuttel von Erfurt, Sonderführungen und Begleitprogramm"
+    },
+    {
+      "id": 30,
+      "from": "2019-07-18",
+      "to": "2019-08-31",
+      "title": "Open-Air-Spektakel",
+      "description": "Donnerstag, Freitag, Samstag jeweils 20.30 Uhr - Open-Air-Spektakel der Kurz- und Kleinkunstbühne aus Jena (20 Jahre Burghoftheater)"
+    },
+    {
+      "id": 40,
+      "from": "2019-08-25",
+      "to": null,
+      "title": "Familienpass Erfurt",
+      "description": "15.00 Uhr - Vom Dachboden zum Keller - Die Entdeckertour"
+    }
+  ]
+}
